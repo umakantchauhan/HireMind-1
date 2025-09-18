@@ -1,9 +1,17 @@
 
 <img width="1710" height="979" alt="Screenshot 2025-09-18 at 9 20 11 PM" src="https://github.com/user-attachments/assets/fb1264a3-2ad9-4382-9e77-1f6484f1fddf" />
 <img width="1710" height="981" alt="Screenshot 2025-09-18 at 9 20 21 PM" src="https://github.com/user-attachments/assets/e11584b8-34b1-4c81-84f7-362e99826b8e" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 33 03 PM" src="https://github.com/user-attachments/assets/0d8e8bce-783b-46c4-84b2-45bfca508db8" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 33 14 PM" src="https://github.com/user-attachments/assets/955978f2-211b-44fe-ade7-b1b8f711ad1e" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 33 32 PM" src="https://github.com/user-attachments/assets/b5a363e0-3c29-41f7-88bf-6bc22e655f7c" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 33 54 PM" src="https://github.com/user-attachments/assets/dca6dd7f-b583-466d-88b6-43fd4dad0927" />
 
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 33 24 PM" src="https://github.com/user-attachments/assets/7aea126d-f1f0-4772-b2aa-00bedccbf8ea" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 34 00 PM" src="https://github.com/user-attachments/assets/ab12b1a9-2e0c-4e2c-9ddb-586a8ebf937a" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 34 17 PM" src="https://github.com/user-attachments/assets/2f4c283a-ea0f-4fc4-8449-883731c6ab0a" />
 
-# Hiremind - AI-Powered Interview Automation Platform
+# Hiremind - AI-Powered Interview Automation Platform<img width="1710" height="1107" alt="Screenshot 2025-09-18 at 11 34 08 PM" src="https://github.com/user-attachments/assets/2db66f67-9465-40c6-9628-8c4d56b2282b" />
+
 
 An advanced AI-powered interview automation platform designed to modernize and streamline the technical hiring process.
 
@@ -129,3 +137,4 @@ Follow the shadcn/ui pattern for new components:
 
 
 This project is licensed under the MIT License. 
+
