@@ -1,3 +1,8 @@
+
+<img width="1710" height="979" alt="Screenshot 2025-09-18 at 9 20 11 PM" src="https://github.com/user-attachments/assets/fb1264a3-2ad9-4382-9e77-1f6484f1fddf" />
+<img width="1710" height="981" alt="Screenshot 2025-09-18 at 9 20 21 PM" src="https://github.com/user-attachments/assets/e11584b8-34b1-4c81-84f7-362e99826b8e" />
+
+
 # Hiremind - AI-Powered Interview Automation Platform
 
 An advanced AI-powered interview automation platform designed to modernize and streamline the technical hiring process.
@@ -121,5 +126,6 @@ Follow the shadcn/ui pattern for new components:
 5. Submit a pull request
 
 ## License
+
 
 This project is licensed under the MIT License. 
